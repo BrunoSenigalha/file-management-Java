@@ -24,7 +24,7 @@ public class Product {
         return quantity;
     }
 
-    public Double totalPrice(){
+    public Double totalPrice() {
         return price * quantity;
     }
 }
